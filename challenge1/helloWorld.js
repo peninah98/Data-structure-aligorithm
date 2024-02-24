@@ -1,1 +1,2 @@
-const greeting = "Hello World!"
+const greeting = () => "Hello world !"
+console.log(greeting())
